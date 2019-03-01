@@ -15,3 +15,5 @@ function nameToAttributes(drivers) {
   });
   return driverobj;
 }
+
+function attributesToPhrase(drivers)
