@@ -2,5 +2,5 @@
 function lowerCaseDrivers(drivers) {
   const lcdrivers = drivers.map(function(driver) {
     return drivers.toLowerCase();
-  }
+  });
 }
