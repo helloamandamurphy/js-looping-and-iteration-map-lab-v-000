@@ -5,3 +5,5 @@ function lowerCaseDrivers(drivers) {
   });
   return lcdrivers;
 }
+
+function nameToAttributes(drivers)
